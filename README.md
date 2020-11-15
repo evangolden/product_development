@@ -3,7 +3,9 @@
 Topic: Project Kick off Meeting
 Date(s): 11/16/2020 - 11/20/2020
 Attendees:
+
  Contract Team: 
+ 
   1) Evan Golden (Product Manager)
   2) Harry Potter (Tech Lead)
   3) Ronald Weasley (Frontend Dev)
@@ -13,6 +15,7 @@ Attendees:
   7) Serverus Snape (Content Strategist)
  
  Client Team:
+ 
   1) Draco Malfoy (Product Owner)
   2) Lucius Malfoy (Stakeholder 1)
   3) Sirius Black (Stakeholder 2)
@@ -22,10 +25,10 @@ Attendees:
   
  Project Phases: (Sprints are 2 weeks)
   
-  Sprint 0 - Kick off and set up. User stories can be pulled into Sprint 0, if there is time; however, expectation is this is not a sprint that is developing and releasing         product code.  Deployed configurations and processes are primarily to prepare for sprints that work towards feature development.
-  Phase 1) Sprint 1 - Sprint 3 
-  Phase 2) Sprint 4 - Sprint 7 
-  Phase 3) Sprint 8 - Sprint 10
+ 1) print 0 - Kick off and set up. User stories can be pulled into Sprint 0, if there is time; however, expectation is this is not a sprint that is developing and releasing         product code.  Deployed configurations and processes are primarily to prepare for sprints that work towards feature development.
+ 2) Phase 1) Sprint 1 - Sprint 3
+ 3) Phase 2) Sprint 4 - Sprint 7 
+ 4) Phase 3) Sprint 8 - Sprint 10
   
   Assumptions
    1) Scrum team will break down features into stories, estimate stories, develop stories, test stories, and deploy stories.
