@@ -2,9 +2,11 @@
 
 Topic: Project Kick off Meeting
 Date(s): 11/16/2020 - 11/20/2020
+
 Attendees:
 
  Contract Team: 
+ 
   1) Evan Golden (Product Manager)
   2) Harry Potter (Tech Lead)
   3) Ronald Weasley (Frontend Dev)
@@ -14,30 +16,30 @@ Attendees:
   7) Serverus Snape (Content Strategist)
  
  Client Team:
+ 
   1) Draco Malfoy (Product Owner)
   2) Lucius Malfoy (Stakeholder 1)
   3) Sirius Black (Stakeholder 2)
-  4) Fred Weasley (Stakeholder 3)
-  5) George Weasley (Stakeholder 
-  6) Ginny Weasley (Stakeholder 5)
   
  Project Phases: (Sprints are 2 weeks)
+ 
   1) Sprint 0
   2) Phase 1) Sprint 1 - Sprint 3
   3) Phase 2) Sprint 4 - Sprint 7 
   4) Phase 3) Sprint 8 - Sprint 10
   
   Assumptions:
+  
    1) Scrum team will break down features into stories, estimate stories, develop stories, test stories, and deploy stories.
    2) Product Manager will coordinate with Product Owner of client team to validate feature prioritization.
    3) Project will use the Scrum methodology, and sprints will be 2 weeks long.
-   4) Jira and Confluence will be used as development management and document management tools.
-   5) Github will be used for code management.
+   4) Zenhub will be used to management product.
    6) Slack and Zoom will be used for team communications. All work will be remote.
    7) Product Manager will serve as Scrum Master.
    8) Scrum team includes: Product Manager/Scrum Master, and Development team.
    
   Ceremonies:
+  
    1) Sprint planning will be the last day of previous sprint.  Attendees are Scrum team.
    2) Daily standups will be development team.  Scrum Master is optional.
    3) Sprint reviews will be the last day of each sprint.  All contract and client team members may attend.
@@ -48,7 +50,6 @@ Attendees:
   
  11/16/2020
   Topics:
-  
     1) Introductions (9:00 - 9:45)
     2) Housekeeping (logistics, schedule, parking lot, how teams will work together, recurring meetings, toolset) (9:45 - 10:30)
     3) Break (10:30 - 10:45)
@@ -64,7 +65,6 @@ Attendees:
     
   11/17/2020
    Topics:
-   
     1) Review previous day's action items. (9:00 - 10:00)
     2) Collaborate on phase 2 initiatives. (10:00 - 11:00)
     3) Break (11:00 - 11:15)
@@ -77,7 +77,6 @@ Attendees:
     
   11/18/2020
    Topics:
-   
     1) Review previous day's action items. (9:00 - 10:00)
     2) Finish documenting phase 2 features. (10:00 - 11:00)
     3) Break (11:00 - 11:15)
@@ -90,7 +89,6 @@ Attendees:
    
   11/19/2020
    Topic:
-   
     1) Review previous day's action items. (9:00 - 10:00)
     2) Document phase 3 features. (10:00 - 11:30)
     3) Break (11:30 - 11:45)
@@ -103,7 +101,6 @@ Attendees:
     
   11/20/2020
    Topics:
-   
     1) Review previous day's action items. (9:00 - 10:00)
     2) Final review of roadmap. (10:00 - 11:00)
     3) Break (11:00 - 11:15)
