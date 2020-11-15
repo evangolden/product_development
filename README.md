@@ -110,36 +110,35 @@ Attendees:
    9) Final parking lot review. (3:30 - 4:30)
    10) Review the day's activities and action items documented. (4:30 - 5:00)
   
-  Events and Ceremonies:
+ Events and Ceremonies:
   
-   Sprint:
+  Sprint:
    
-    1) Output: Product Increment
-    2) Lenth in time: For this project it is 2 weeks per sprint.
+   1) Output: Product Increment
+   2) Lenth in time: For this project it is 2 weeks per sprint.
   
-   Sprint Planning:
+  Sprint Planning:
    
-    1) Attendees: Scrum Team
-    2) Output: Sprint Backlog
-    3) Length in time: Maximum 8 hours
-    4) Topic: Estimate and plan stories for the next Sprint.
+   1) Attendees: Scrum Team
+   2) Output: Sprint Backlog
+   3) Length in time: Maximum 8 hours    4) Topic: Estimate and plan stories for the next Sprint.
    
-   Daily Standup:
+  Daily Standup:
    
-    1) Attendees: Development Team (Scrum Master is optional)
-    2) Output: Updated status
-    3) Length in time: Maximum 15 minutes
-    4) Topic: Each team member updates 1) What I did yesterday. 2) What I am doing today. 3) If I have any blockers.
+   1) Attendees: Development Team (Scrum Master is optional)
+   2) Output: Updated status
+   3) Length in time: Maximum 15 minutes
+   4) Topic: Each team member updates 1) What I did yesterday. 2) What I am doing today. 3) If I have any blockers.
     
-   Sprint Review:
+  Sprint Review:
    
-    1) Attendees: Scrum Team, and stakeholders may attend.
-    2) Output: Updated Product Backlog
-    3) Length in time: Maximum 4 hours
-    4) Topic: Demonstrate the working software (Product Increment), that was completed in the sprint.
+   1) Attendees: Scrum Team, and stakeholders may attend.
+   2) Output: Updated Product Backlog
+   3) Length in time: Maximum 4 hours
+   4) Topic: Demonstrate the working software (Product Increment), that was completed in the sprint.
     
-   Sprint Retrospective:
+  Sprint Retrospective:
    
-    1) Attendees: Scrum Team
-    2) Length in time: Maximum 3 hours
-    3) Topic: Discussion of what the team did well, and where the team can improve.
+   1) Attendees: Scrum Team
+   2) Length in time: Maximum 3 hours
+   3) Topic: Discussion of what the team did well, and where the team can improve.
