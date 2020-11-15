@@ -3,14 +3,23 @@
 Topic: Project Kick off Meeting
 Date(s): 11/16/2020 - 11/20/2020
 Attendees:
-  Contract Team: Evan Golden (Product Manager), Harry Potter (Tech Lead), Ronald Weasley (Frontend Dev), Hermoine Granger (Backend Dev), Neville Longbottom (Design Lead), Albus     Dombledore (UX Researcher), Serverus Snape (Content Strategist)
-  Customer Team: Draco Malfoy (Product Owner), Lucius Malfoy (Stakeholder 1), Sirius Black (Stakeholder 2), Fred Weasley (Stakeholder 3), George Weasley (Stakeholder 4), Ginny       Weasley (Stakeholder 5)
+  Contract Team: Evan Golden (Product Manager), Harry Potter (Tech Lead), Ronald Weasley (Frontend Dev), Hermoine Granger (Backend Dev), Neville Longbottom (Design Lead), Albus                  Dombledore (UX Researcher), Serverus Snape (Content Strategist)
+  Client Team: Draco Malfoy (Product Owner), Lucius Malfoy (Stakeholder 1), Sirius Black (Stakeholder 2), Fred Weasley (Stakeholder 3), George Weasley (Stakeholder 4), Ginny                    Weasley (Stakeholder 5)
   
  Project Phases: (Sprints are 2 weeks)
   Sprint 0 - Kick off and set up
   Phase 1) Sprint 1 - Sprint 3 (Backend development and QA | UX/UI definition)
   Phase 2) Sprint 4 - Sprint 7 (Frontend development and QA)
   Phase 3) Sprint 8 - Sprint 9 (Documentation (design, user, admin) | Product launch)
+  
+  Assumptions
+   1) Scrum team will break down features into stories, estimate stories, develop stories, test stories, and deploy stories.
+   2) Product Manager will coordinate with Product Owner of client team to validate feature prioritization, and together they will be the liasons between the development team         and stakeholders.
+   3) Project will use the Scrum methodology, and sprints will be 2 weeks long.
+   4) Sprint planning will be the last day of previous sprint.  Attendees are development team, Scrum Master, Product Manager, and Product Owner (client).
+   5) Daily standups will be contract Scrum team only.
+   6) Sprint reviews will be the last day of each sprint.  All contract and client team members should attend.
+   
   
   11/16/2020
   
