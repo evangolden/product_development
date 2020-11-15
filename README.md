@@ -1,4 +1,4 @@
-# product_development
+# web_product
 
 Topic: Project Kick off Meeting
 Date(s): 11/16/2020 - 11/20/2020
