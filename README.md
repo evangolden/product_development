@@ -51,6 +51,7 @@ Attendees:
  11/16/2020
  
   Topics:
+  
     1) Introductions (9:00 - 9:45)
     2) Housekeeping (logistics, schedule, parking lot, how teams will work together, recurring meetings, toolset) (9:45 - 10:30)
     3) Break (10:30 - 10:45)
@@ -67,6 +68,7 @@ Attendees:
   11/17/2020
   
    Topics:
+   
     1) Review previous day's action items. (9:00 - 10:00)
     2) Collaborate on phase 2 initiatives. (10:00 - 11:00)
     3) Break (11:00 - 11:15)
@@ -80,6 +82,7 @@ Attendees:
   11/18/2020
   
    Topics:
+   
     1) Review previous day's action items. (9:00 - 10:00)
     2) Finish documenting phase 2 features. (10:00 - 11:00)
     3) Break (11:00 - 11:15)
@@ -93,6 +96,7 @@ Attendees:
   11/19/2020
   
    Topic:
+   
     1) Review previous day's action items. (9:00 - 10:00)
     2) Document phase 3 features. (10:00 - 11:30)
     3) Break (11:30 - 11:45)
@@ -106,6 +110,7 @@ Attendees:
   11/20/2020
   
    Topics:
+   
     1) Review previous day's action items. (9:00 - 10:00)
     2) Final review of roadmap. (10:00 - 11:00)
     3) Break (11:00 - 11:15)
