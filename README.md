@@ -5,7 +5,6 @@ Date(s): 11/16/2020 - 11/20/2020
 Attendees:
 
  Contract Team: 
- 
   1) Evan Golden (Product Manager)
   2) Harry Potter (Tech Lead)
   3) Ronald Weasley (Frontend Dev)
@@ -15,7 +14,6 @@ Attendees:
   7) Serverus Snape (Content Strategist)
  
  Client Team:
- 
   1) Draco Malfoy (Product Owner)
   2) Lucius Malfoy (Stakeholder 1)
   3) Sirius Black (Stakeholder 2)
@@ -24,16 +22,14 @@ Attendees:
   6) Ginny Weasley (Stakeholder 5)
   
  Project Phases: (Sprints are 2 weeks)
-  
- 1) Sprint 0 - Kick off and set up. User stories can be pulled into Sprint 0, if there is time; however, expectation is this is not a sprint that is developing and releasing         product code.  Deployed configurations and processes are primarily to prepare for sprints that work towards feature development.
- 2) Phase 1) Sprint 1 - Sprint 3
- 3) Phase 2) Sprint 4 - Sprint 7 
- 4) Phase 3) Sprint 8 - Sprint 10
+  1) Sprint 0
+  2) Phase 1) Sprint 1 - Sprint 3
+  3) Phase 2) Sprint 4 - Sprint 7 
+  4) Phase 3) Sprint 8 - Sprint 10
   
   Assumptions:
-  
    1) Scrum team will break down features into stories, estimate stories, develop stories, test stories, and deploy stories.
-   2) Product Manager will coordinate with Product Owner of client team to validate feature prioritization, and together they will be the liasons between the development team and stakeholders.
+   2) Product Manager will coordinate with Product Owner of client team to validate feature prioritization.
    3) Project will use the Scrum methodology, and sprints will be 2 weeks long.
    4) Jira and Confluence will be used as development management and document management tools.
    5) Github will be used for code management.
@@ -42,7 +38,6 @@ Attendees:
    8) Scrum team includes: Product Manager/Scrum Master, and Development team.
    
   Ceremonies:
-  
    1) Sprint planning will be the last day of previous sprint.  Attendees are Scrum team.
    2) Daily standups will be development team.  Scrum Master is optional.
    3) Sprint reviews will be the last day of each sprint.  All contract and client team members may attend.
