@@ -3,10 +3,25 @@
 Topic: Project Kick off Meeting
 Date(s): 11/16/2020 - 11/20/2020
 Attendees:
-  Contract Team: Evan Golden (Product Manager), Harry Potter (Tech Lead), Ronald Weasley (Frontend Dev), Hermoine Granger (Backend Dev), Neville Longbottom (Design Lead), Albus                  Dombledore (UX Researcher), Serverus Snape (Content Strategist)
-  Client Team: Draco Malfoy (Product Owner), Lucius Malfoy (Stakeholder 1), Sirius Black (Stakeholder 2), Fred Weasley (Stakeholder 3), George Weasley (Stakeholder 4), Ginny                    Weasley (Stakeholder 5)
+ Contract Team: 
+  1) Evan Golden (Product Manager)
+  2) Harry Potter (Tech Lead)
+  3) Ronald Weasley (Frontend Dev)
+  4) Hermoine Granger (Backend Dev)
+  5) Neville Longbottom (Design Lead)
+  6) Albus Dombledore (UX Researcher)
+  7) Serverus Snape (Content Strategist)
+ 
+ Client Team:
+  1) Draco Malfoy (Product Owner)
+  2) Lucius Malfoy (Stakeholder 1)
+  3) Sirius Black (Stakeholder 2)
+  4) Fred Weasley (Stakeholder 3)
+  5) George Weasley (Stakeholder 
+  6) Ginny Weasley (Stakeholder 5)
   
  Project Phases: (Sprints are 2 weeks)
+  
   Sprint 0 - Kick off and set up. User stories can be pulled into Sprint 0, if there is time; however, expectation is this is not a sprint that is developing and releasing         product code.  Deployed configurations and processes are primarily to prepare for sprints that work towards feature development.
   Phase 1) Sprint 1 - Sprint 3 
   Phase 2) Sprint 4 - Sprint 7 
@@ -14,7 +29,7 @@ Attendees:
   
   Assumptions
    1) Scrum team will break down features into stories, estimate stories, develop stories, test stories, and deploy stories.
-   2) Product Manager will coordinate with Product Owner of client team to validate feature prioritization, and together they will be the liasons between the development team         and stakeholders.
+   2) Product Manager will coordinate with Product Owner of client team to validate feature prioritization, and together they will be the liasons between the development team and stakeholders.
    3) Project will use the Scrum methodology, and sprints will be 2 weeks long.
    4) Jira and Confluence will be used as development management and document management tools.
    5) Github will be used for code management.
@@ -27,7 +42,7 @@ Attendees:
    2) Daily standups will be development team.  Scrum Master is optional.
    3) Sprint reviews will be the last day of each sprint.  All contract and client team members may attend.
    4) Sprint retrospectives will be the last day of each sprint.  Attendees are the Scrum team members only.
-   4) Backlog refinement sessions will be done weekly.  Attendees will be Product Manager (Contractor) and Product Owner (Client).
+   5) Backlog refinement sessions will be done weekly.  Attendees will be Product Manager (Contractor) and Product Owner (Client).
   
    
   
