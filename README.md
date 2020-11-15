@@ -25,12 +25,13 @@ Attendees:
   
  Project Phases: (Sprints are 2 weeks)
   
- 1) print 0 - Kick off and set up. User stories can be pulled into Sprint 0, if there is time; however, expectation is this is not a sprint that is developing and releasing         product code.  Deployed configurations and processes are primarily to prepare for sprints that work towards feature development.
+ 1) Sprint 0 - Kick off and set up. User stories can be pulled into Sprint 0, if there is time; however, expectation is this is not a sprint that is developing and releasing         product code.  Deployed configurations and processes are primarily to prepare for sprints that work towards feature development.
  2) Phase 1) Sprint 1 - Sprint 3
  3) Phase 2) Sprint 4 - Sprint 7 
  4) Phase 3) Sprint 8 - Sprint 10
   
-  Assumptions
+  Assumptions:
+  
    1) Scrum team will break down features into stories, estimate stories, develop stories, test stories, and deploy stories.
    2) Product Manager will coordinate with Product Owner of client team to validate feature prioritization, and together they will be the liasons between the development team and stakeholders.
    3) Project will use the Scrum methodology, and sprints will be 2 weeks long.
@@ -40,7 +41,8 @@ Attendees:
    7) Product Manager will serve as Scrum Master.
    8) Scrum team includes: Product Manager/Scrum Master, and Development team.
    
-  Ceremonies
+  Ceremonies:
+  
    1) Sprint planning will be the last day of previous sprint.  Attendees are Scrum team.
    2) Daily standups will be development team.  Scrum Master is optional.
    3) Sprint reviews will be the last day of each sprint.  All contract and client team members may attend.
@@ -66,7 +68,6 @@ Attendees:
     
     
   11/17/2020
-   
    Topics:
    
     1) Review previous day's action items. (9:00 - 10:00)
@@ -80,7 +81,6 @@ Attendees:
     9) Review the day's activities and action items documented. (4:30 - 5:00)
     
   11/18/2020
-    
    Topics:
    
     1) Review previous day's action items. (9:00 - 10:00)
@@ -107,7 +107,6 @@ Attendees:
     7) Review the day's activities and action items documented. (4:30 - 5:00)
     
   11/20/2020
-   
    Topics:
    
     1) Review previous day's action items. (9:00 - 10:00)
