@@ -7,7 +7,7 @@ Attendees:
   Client Team: Draco Malfoy (Product Owner), Lucius Malfoy (Stakeholder 1), Sirius Black (Stakeholder 2), Fred Weasley (Stakeholder 3), George Weasley (Stakeholder 4), Ginny                    Weasley (Stakeholder 5)
   
  Project Phases: (Sprints are 2 weeks)
-  Sprint 0 - Kick off and set up
+  Sprint 0 - Kick off and set up (user stories can be pulled into Sprint 0, if there is time)
   Phase 1) Sprint 1 - Sprint 3 (Backend development and QA | UX/UI definition)
   Phase 2) Sprint 4 - Sprint 7 (Frontend development and QA)
   Phase 3) Sprint 8 - Sprint 9 (Documentation (design, user, admin) | Product launch)
@@ -19,6 +19,8 @@ Attendees:
    4) Sprint planning will be the last day of previous sprint.  Attendees are development team, Scrum Master, Product Manager, and Product Owner (client).
    5) Daily standups will be contract Scrum team only.
    6) Sprint reviews will be the last day of each sprint.  All contract and client team members should attend.
+   7) Jira and Confluence will be used as development management and document management tools.
+   8) Github will be used for code management.
    
   
   11/16/2020
