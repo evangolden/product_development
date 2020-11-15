@@ -38,15 +38,15 @@ Attendees:
    7) Product Manager will serve as Scrum Master.
    8) Scrum team includes: Product Manager/Scrum Master, and Development team.
    
-  Ceremonies:
+  Events and Ceremonies:
   
-   1) Sprint planning will be the last day of previous sprint.  Attendees are Scrum team.
-   2) Daily standups will be development team.  Scrum Master is optional.
-   3) Sprint reviews will be the last day of each sprint.  All contract and client team members may attend.
-   4) Sprint retrospectives will be the last day of each sprint.  Attendees are the Scrum team members only.
+   1) Sprint planning - Attendees are Scrum team. Output: Sprint Backlog Timeframe: Max 8 hours.
+   2) Daily standups will attended by the development team.  Scrum Master is optional. Output: Updated status, and identified blockers Timeframe: Max 15 minutes.
+   3) Sprint - Output: Product Increment (working code) that may or may not be deployed. Timeframe: 2 weeks.
+   3) Sprint reviews will be the last day of each sprint.  All contract and client team members may attend. Output: Revised product backlog. Timeframe: Max 4 hours.
+   4) Sprint retrospectives will be the last day of each sprint.  Attendees are the Scrum team members only. Timeframe: Max 3 hours.
    5) Backlog refinement sessions will be done weekly.  Attendees will be Product Manager (Contractor) and Product Owner (Client).
   
-   
   
  11/16/2020
  
