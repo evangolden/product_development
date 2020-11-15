@@ -7,10 +7,10 @@ Attendees:
   Client Team: Draco Malfoy (Product Owner), Lucius Malfoy (Stakeholder 1), Sirius Black (Stakeholder 2), Fred Weasley (Stakeholder 3), George Weasley (Stakeholder 4), Ginny                    Weasley (Stakeholder 5)
   
  Project Phases: (Sprints are 2 weeks)
-  Sprint 0 - Kick off and set up (user stories can be pulled into Sprint 0, if there is time)
-  Phase 1) Sprint 1 - Sprint 3 (Backend development and QA | UX/UI definition)
-  Phase 2) Sprint 4 - Sprint 7 (Frontend development and QA)
-  Phase 3) Sprint 8 - Sprint 9 (Documentation (design, user, admin) | Product launch)
+  Sprint 0 - Kick off and set up. User stories can be pulled into Sprint 0, if there is time; however, expectation is this is not a sprint that is developing and releasing         product code.  Deployed configurations and processes are primarily to prepare for sprints that work towards feature development.
+  Phase 1) Sprint 1 - Sprint 3 
+  Phase 2) Sprint 4 - Sprint 7 
+  Phase 3) Sprint 8 - Sprint 10
   
   Assumptions
    1) Scrum team will break down features into stories, estimate stories, develop stories, test stories, and deploy stories.
@@ -18,8 +18,9 @@ Attendees:
    3) Project will use the Scrum methodology, and sprints will be 2 weeks long.
    4) Jira and Confluence will be used as development management and document management tools.
    5) Github will be used for code management.
-   6) Product Manager will serve as Scrum Master.
-   6) Scrum team includes: Product Manager/Scrum Master, and Development team.
+   6) Slack and Zoom will be used for team communications. All work will be remote.
+   7) Product Manager will serve as Scrum Master.
+   8) Scrum team includes: Product Manager/Scrum Master, and Development team.
    
   Ceremonies
    1) Sprint planning will be the last day of previous sprint.  Attendees are Scrum team.
@@ -43,7 +44,7 @@ Attendees:
     8) Break (3:30 - 3:45)
     9) Review parking lot for high priority topics. (3:45 - 4:15)
     10) Agree of definition of done (4:15 - 4:40)
-    10) Review the day's activities and action items documented. (4:40 - 5:15)
+    11) Review the day's activities and action items documented. (4:40 - 5:15)
     
     
    11/17/2020
@@ -77,7 +78,7 @@ Attendees:
     2) Document phase 3 features. (10:00 - 11:30)
     3) Break (11:30 - 11:45)
     4) Finish documenting phase 3 features. (11:45 - 12:30)
-    5) Lunch (12:30 - 1:30
+    5) Lunch (12:30 - 1:30)
     4) Update product roadmap. (1:30 - 3:30)
     5) Break (3:30 - 3:45)
     6) Review parking lot for high priority topics. (3:45 - 4:30)
@@ -93,7 +94,7 @@ Attendees:
     5) Lunch (12:15 - 1:15)
     6) Discuss design requirements or concerns (if there is a design guide, do a high level review) (1:15 - 2:15)
     7) Break (2:15 - 2:30)
-    8) Plan Sprint 0 (2:30 - 3:30)
+    8) Review plan for rest of Sprint 0 (2:30 - 3:30)
     9) Final parking lot review. (3:30 - 4:30)
     10) Review the day's activities and action items documented. (4:30 - 5:00)
       
