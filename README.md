@@ -23,8 +23,9 @@ Attendees:
     6) Review and discussion around product roadmap (phase 1). (1:30 - 2:30)
     7) Review and discussion around discovery notes (phase 1). (2:30 - 3:30)
     8) Break (3:30 - 3:45)
-    9) Review parking lot for high priority topics. (3:45 - 4:30)
-    10) Review the day's activities and action items documented. (4:30-5:00)
+    9) Review parking lot for high priority topics. (3:45 - 4:15)
+    10) Agree of definition of done (4:15 - 4:40)
+    10) Review the day's activities and action items documented. (4:40 - 5:15)
     
     
    11/17/2020
