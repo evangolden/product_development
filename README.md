@@ -6,19 +6,76 @@ Attendees:
   Contract Team: Evan Golden (Product Manager), Harry Potter (Tech Lead), Ronald Weasley (Frontend Dev), Hermoine Granger (Backend Dev), Neville Longbottom (Design Lead), Albus     Dombledore (UX Researcher), Serverus Snape (Content Strategist)
   Customer Team: Draco Malfoy (Product Owner), Lucius Malfoy (Stakeholder 1), Sirius Black (Stakeholder 2), Fred Weasley (Stakeholder 3), George Weasley (Stakeholder 4), Ginny       Weasley (Stakeholder 5)
   
+ Project Phases: (Sprints are 2 weeks)
+  Phase 1) Sprint 0 - Sprint 3 (Backend development and QA | UX/UI definition)
+  Phase 2) Sprint 4 - Sprint 7 (Frontend development and QA)
+  Phase 3) Sprint 8 - Sprint 9 (Documentation (design, user, admin) | Product launch)
+  
   11/16/2020
   
   Topics:
-    1) Introductions
-    2) Housekeeping (logistics, schedule, parking lot)
-    3) Review and discussion around product vision.  Make updates if needed.
-    4) Review and discussion around product roadmap at a high level.  This discussion is primarily around understanding the features as they are documented in the roadmap.
-    5) Review the day's activities and action items documented.
+    1) Introductions (9:00 - 9:45)
+    2) Housekeeping (logistics, schedule, parking lot, how teams will work together, recurring meetings, toolset) (9:45 - 10:30)
+    3) Break (10:30 - 10:45)
+    4) Review and discussion around product vision.  Make updates if needed. (10:45 - 12:30)
+    5) Lunch (12:30 - 1:30)
+    6) Review and discussion around product roadmap (phase 1). (1:30 - 2:30)
+    7) Review and discussion around discovery notes (phase 1). (2:30 - 3:30)
+    8) Break (3:30 - 3:45)
+    9) Review parking lot for high priority topics. (3:45 - 4:30)
+    10) Review the day's activities and action items documented. (4:30-5:00)
     
     
    11/17/2020
    
    Topics:
-    1) 
-    2)
-    3)
+    1) Review previous day's action items. (9:00 - 10:00)
+    2) Collaborate on phase 2 initiatives. (10:00 - 11:00)
+    3) Break (11:00 - 11:15)
+    4) Finish phase 2 initiatives discussion (11:15 - 12:30)
+    5) Lunch (12:30 - 1:30)
+    6) Begin breaking down phase 2 initiatives into features for phase 2. (1:30 - 3:30)
+    7) Break (3:30 - 3:45)
+    8) Review parking lot for high priority topics. (3:45 - 4:30)
+    9) Review the day's activities and action items documented. (4:30 - 5:00)
+    
+   11/18/2020
+    
+   Topics:
+    1) Review previous day's action items. (9:00 - 10:00)
+    2) Finish documenting phase 2 features. (10:00 - 11:00)
+    3) Break (11:00 - 11:15)
+    4) Update product roadmap. (11:15 - 12:30)
+    5) Lunch (12:30 - 1:30)
+    6) Collaborate on phase 3 initiatives. (1:30 - 3:30)
+    7) Break (3:30 - 3:45)
+    8) Review parking lot for high priority topics. (3:45 - 4:30)
+    9) Review the day's activities and action items documented. (4:30 - 5:00)
+   
+   11/19/2020
+    1) Review previous day's action items. (9:00 - 10:00)
+    2) Document phase 3 features. (10:00 - 11:30)
+    3) Break (11:30 - 11:45)
+    4) Finish documenting phase 3 features. (11:45 - 12:30)
+    5) Lunch (12:30 - 1:30
+    4) Update product roadmap. (1:30 - 3:30)
+    5) Break (3:30 - 3:45)
+    6) Review parking lot for high priority topics. (3:45 - 4:30)
+    7) Review the day's activities and action items documented. (4:30 - 5:00)
+    
+   11/20/2020
+   
+   Topics:
+    1) Review previous day's action items. (9:00 - 10:00)
+    2) Final review of roadmap. (10:00 - 11:00)
+    3) Break (11:00 - 11:15)
+    4) Discuss QA policies and requirements. (11:15 - 12:15)
+    5) Lunch (12:15 - 1:15)
+    6) Discuss design requirements or concerns (if there is a design guide, do a high level review) (1:15 - 2:15)
+    7) Break (2:15 - 2:30)
+    8) Plan Sprint 0 (2:30 - 3:30)
+    9) Final parking lot review. (3:30 - 4:30)
+    10) Review the day's activities and action items documented. (4:30 - 5:00)
+      
+    
+      
