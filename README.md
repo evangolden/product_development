@@ -16,11 +16,18 @@ Attendees:
    1) Scrum team will break down features into stories, estimate stories, develop stories, test stories, and deploy stories.
    2) Product Manager will coordinate with Product Owner of client team to validate feature prioritization, and together they will be the liasons between the development team         and stakeholders.
    3) Project will use the Scrum methodology, and sprints will be 2 weeks long.
-   4) Sprint planning will be the last day of previous sprint.  Attendees are development team, Scrum Master, Product Manager, and Product Owner (client).
-   5) Daily standups will be contract Scrum team only.
-   6) Sprint reviews will be the last day of each sprint.  All contract and client team members should attend.
-   7) Jira and Confluence will be used as development management and document management tools.
-   8) Github will be used for code management.
+   4) Jira and Confluence will be used as development management and document management tools.
+   5) Github will be used for code management.
+   6) Product Manager will serve as Scrum Master.
+   6) Scrum team includes: Product Manager/Scrum Master, and Development team.
+   
+  Ceremonies
+   1) Sprint planning will be the last day of previous sprint.  Attendees are Scrum team.
+   2) Daily standups will be development team.  Scrum Master is optional.
+   3) Sprint reviews will be the last day of each sprint.  All contract and client team members may attend.
+   4) Sprint retrospectives will be the last day of each sprint.  Attendees are the Scrum team members only.
+   4) Backlog refinement sessions will be done weekly.  Attendees will be Product Manager (Contractor) and Product Owner (Client).
+  
    
   
   11/16/2020
