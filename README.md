@@ -7,7 +7,8 @@ Attendees:
   Customer Team: Draco Malfoy (Product Owner), Lucius Malfoy (Stakeholder 1), Sirius Black (Stakeholder 2), Fred Weasley (Stakeholder 3), George Weasley (Stakeholder 4), Ginny       Weasley (Stakeholder 5)
   
  Project Phases: (Sprints are 2 weeks)
-  Phase 1) Sprint 0 - Sprint 3 (Backend development and QA | UX/UI definition)
+  Sprint 0 - Kick off and set up
+  Phase 1) Sprint 1 - Sprint 3 (Backend development and QA | UX/UI definition)
   Phase 2) Sprint 4 - Sprint 7 (Frontend development and QA)
   Phase 3) Sprint 8 - Sprint 9 (Documentation (design, user, admin) | Product launch)
   
